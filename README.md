@@ -1,4 +1,4 @@
-# Guide: Gamble Bot
+# Guide: Casino Bot
 
 Interacting with the bot  
 The bot uses slash commands (e.g. ) and pinging with @ Gamble Bot.
